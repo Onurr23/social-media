@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f3845c0-d00f-45d2-85cf-dadf94d5c3ef" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1WAWpyTz9dxEcesVGRCJySIks8E" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\react-course\social-media\public" />
+      <recent name="C:\react-course\social-media\src\Components\Actions" />
+      <recent name="C:\react-course\social-media\src\Components\Auth" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f3845c0-d00f-45d2-85cf-dadf94d5c3ef" name="Default Changelist" comment="" />
+      <created>1578593065886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578593065886</updated>
+      <workItem from="1578593067668" duration="3862000" />
+      <workItem from="1578601550745" duration="8389000" />
+      <workItem from="1578647308792" duration="581000" />
+      <workItem from="1578664187666" duration="6417000" />
+      <workItem from="1578676513660" duration="3187000" />
+      <workItem from="1578683085002" duration="886000" />
+      <workItem from="1578686791979" duration="7120000" />
+      <workItem from="1578758779480" duration="273000" />
+      <workItem from="1578763476663" duration="14260000" />
+      <workItem from="1578819409412" duration="9705000" />
+      <workItem from="1578840571651" duration="341000" />
+      <workItem from="1578939345684" duration="3710000" />
+      <workItem from="1578945934206" duration="5460000" />
+      <workItem from="1578993453499" duration="972000" />
+      <workItem from="1578995668037" duration="7264000" />
+      <workItem from="1579015115918" duration="2394000" />
+      <workItem from="1579077206863" duration="964000" />
+      <workItem from="1579107395323" duration="681000" />
+      <workItem from="1579110351188" duration="5246000" />
+      <workItem from="1579119361829" duration="4603000" />
+      <workItem from="1579166699575" duration="2553000" />
+      <workItem from="1579170515604" duration="5545000" />
+      <workItem from="1579208087334" duration="5000" />
+      <workItem from="1579208776864" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

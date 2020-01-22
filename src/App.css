@@ -1,0 +1,75 @@
+.form-text{
+
+  color: darkblue;
+
+}
+.mb-3{
+
+  background-color: #7FDBFF;
+
+}
+
+#like{
+
+  color: red;
+
+
+}
+
+span{
+
+  cursor: pointer;
+
+}
+
+.alert-danger{
+
+  background-color: darkred;
+  color: #ffff;
+  border: darkred;
+
+}
+
+
+#error{
+
+ box-shadow: 1px 1px 7px 1px red;
+
+}
+
+#txt{
+
+  background-color: #fff5d7;
+
+}
+.twit-img{
+
+  width: 150px;
+  height :120px
+
+}
+
+.rply-img{
+
+  width: 110px;
+  height :100px
+
+}
+.nav-item{
+
+  color: white;
+
+}
+
+
+#like{
+
+  color: red;
+
+}
+
+.card{
+
+  cursor: pointer;
+
+}
